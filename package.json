@@ -2,7 +2,7 @@
   "name": "store",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.1"
   }
 }
